@@ -1,5 +1,5 @@
 # euro_trinkets
-Just some funny little projects and tools for patching and breadboarding, including:
+Just some gerber zips for funny little projects and tools for patching and breadboarding, including:
 
 ## Passive Attenuator
 takes an input and passes thru a pot as a voltage divider, **BOOM** attenuated signal output. use a lin or log pot to your taste. (thonk-style jacks and alpha 9mm pots)
@@ -18,3 +18,5 @@ want to try a little 1u but don't have the rails? this gives you 22hp worth of 1
 
 ## jackpot 2, 3, 4
 mannnnnn breadboarding is a pain in the rear. make life simpler with this sturdy mount for those thonk-style jacks and alpha 9mm pots. the footprints overlap so each slot can accept a jack or a pot! just needs a few 2.54mm pin headers to slot into that breadboard.
+
+I typically use JLCPCB to fabricate these. Some headings in the CSV files may need to change for a different fab house. If the gerbers are incompatible with your fab house of choice, reach out and I will see what I can do!
